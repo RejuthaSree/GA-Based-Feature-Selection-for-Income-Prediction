@@ -102,7 +102,7 @@ The models were evaluated using:
 ## Accuracy Comparison
 
 <p align="center">
-  <img src="images/accuracy.png" width="650">
+  <img src="images/accuracy.png" width="550">
 </p>
 
 ---
@@ -110,7 +110,7 @@ The models were evaluated using:
 ## Precision Comparison
 
 <p align="center">
-  <img src="images/precision.png" width="650">
+  <img src="images/precision.png" width="550">
 </p>
 
 ---
@@ -118,7 +118,7 @@ The models were evaluated using:
 ## Recall Comparison
 
 <p align="center">
-  <img src="images/recall.png" width="650">
+  <img src="images/recall.png" width="550">
 </p>
 
 ---
@@ -126,7 +126,7 @@ The models were evaluated using:
 ## F1 Score Comparison
 
 <p align="center">
-  <img src="images/f1_score.png" width="650">
+  <img src="images/f1_score.png" width="550">
 </p>
 
 ---
@@ -134,7 +134,7 @@ The models were evaluated using:
 ## Training Time Comparison
 
 <p align="center">
-  <img src="images/training_time.png" width="650">
+  <img src="images/training_time.png" width="550">
 </p>
 
 ---
@@ -142,7 +142,7 @@ The models were evaluated using:
 ## Feature Count Comparison
 
 <p align="center">
-  <img src="images/feature_count.png" width="650">
+  <img src="images/feature_count.png" width="550">
 </p>
 
 ---
@@ -150,7 +150,7 @@ The models were evaluated using:
 ## ROC Curve Comparison
 
 <p align="center">
-  <img src="images/roc_curve.png" width="650">
+  <img src="images/roc_curve.png" width="550">
 </p>
 
 ---
