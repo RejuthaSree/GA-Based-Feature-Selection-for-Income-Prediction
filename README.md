@@ -85,14 +85,13 @@ The models were evaluated using:
 * Area Under Curve (AUC)
 
 ---
-
 # 🏆 Final Results
 
-| Model                    |   Accuracy |  Precision |     Recall |   F1 Score | Features |
-| ------------------------ | ---------: | ---------: | ---------: | ---------: | -------: |
-| Logistic Regression (GA) | **83.01%** | **74.59%** | **50.07%** | **59.91%** |        5 |
-| Random Forest (GA)       | **86.24%** | **76.24%** | **66.47%** | **71.02%** |        7 |
-| **XGBoost (GA)**         | **87.29%** | **80.06%** | **66.41%** | **72.60%** |       10 |
+| Model | Accuracy | Precision | Recall | F1 Score | Features | Training Time (s) |
+|-------------------------|---------:|----------:|---------:|---------:|---------:|------------------:|
+| Logistic Regression (GA) | **83.01%** | **74.59%** | **50.07%** | **59.91%** | **5** | **0.040** |
+| Random Forest (GA) | **86.24%** | **76.24%** | **66.47%** | **71.02%** | **7** | **2.106** |
+| **XGBoost (GA)** | **87.29%** | **80.06%** | **66.41%** | **72.60%** | **10** | **0.178** |
 
 **Best Model:** **GA-Optimized XGBoost**
 
