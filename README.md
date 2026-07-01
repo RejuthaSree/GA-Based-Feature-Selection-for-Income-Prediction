@@ -98,65 +98,85 @@ The models were evaluated using:
 
 ---
 # 📈 Results Visualization
-# 📈 Results Visualization
 
 ## Accuracy Comparison
 
-![Accuracy](images/accuracy.png)
+<p align="center">
+  <img src="images/accuracy.png" width="650">
+</p>
 
 ---
 
 ## Precision Comparison
 
-![Precision](images/precision.png)
+<p align="center">
+  <img src="images/precision.png" width="650">
+</p>
 
 ---
 
 ## Recall Comparison
 
-![Recall](images/recall.png)
+<p align="center">
+  <img src="images/recall.png" width="650">
+</p>
 
 ---
 
 ## F1 Score Comparison
 
-![F1 Score](images/f1_score.png)
+<p align="center">
+  <img src="images/f1_score.png" width="650">
+</p>
 
 ---
 
 ## Training Time Comparison
 
-![Training Time](images/training_time.png)
+<p align="center">
+  <img src="images/training_time.png" width="650">
+</p>
 
 ---
 
 ## Feature Count Comparison
 
-![Feature Count](images/feature_count.png)
+<p align="center">
+  <img src="images/feature_count.png" width="650">
+</p>
 
 ---
 
-## ROC Curve
+## ROC Curve Comparison
 
-![ROC Curve](images/roc_curve.png)
+<p align="center">
+  <img src="images/roc_curve.png" width="650">
+</p>
 
 ---
 
 ## Confusion Matrix - Logistic Regression
 
-![LR Confusion Matrix](images/confusion_matrix_lr.png)
+<p align="center">
+  <img src="images/confusion_matrix_lr.png" width="500">
+</p>
 
 ---
 
 ## Confusion Matrix - Random Forest
 
-![RF Confusion Matrix](images/confusion_matrix_rf.png)
+<p align="center">
+  <img src="images/confusion_matrix_rf.png" width="500">
+</p>
 
 ---
 
 ## Confusion Matrix - XGBoost
 
-![XGBoost Confusion Matrix](images/confusion_matrix_xgb.png)
+<p align="center">
+  <img src="images/confusion_matrix_xgb.png" width="500">
+</p>
+---
 
 # 📈 Project Workflow
 
