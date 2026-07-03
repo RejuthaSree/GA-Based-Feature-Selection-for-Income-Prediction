@@ -12,7 +12,7 @@ Three machine learning algorithms were implemented and evaluated:
 
 Each model was trained using the original feature set and then optimized using a Genetic Algorithm. Hyperparameter tuning was also performed and compared with the GA approach to determine the most effective optimization technique.
 
----
+
 
 # 🎯 Objectives
 
@@ -22,7 +22,7 @@ Each model was trained using the original feature set and then optimized using a
 * Compare GA with Hyperparameter Tuning.
 * Evaluate models using multiple performance metrics.
 
----
+
 
 ## 📂 Dataset
 
@@ -30,7 +30,7 @@ Each model was trained using the original feature set and then optimized using a
 - **Source:** UCI Machine Learning Repository
 - **Target Variable:** Income (<=50K / >50K)
 - **Type:** Binary Classification
----
+
 # ⚙️ Technologies Used
 
 - Python
@@ -44,7 +44,6 @@ Each model was trained using the original feature set and then optimized using a
 - Genetic Algorithm (GA)
 - RandomizedSearchCV
 
----
 
 # 🧬 Methodology
 
@@ -61,7 +60,7 @@ The project follows the complete machine learning pipeline:
 9. Model Evaluation
 10. Comparative Analysis with table and graphs
 
----
+
 
 # 🤖 Machine Learning Models
 
@@ -69,7 +68,6 @@ The project follows the complete machine learning pipeline:
 * Random Forest Classifier
 * XGBoost Classifier
 
----
 
 # 📊 Evaluation Metrics
 
@@ -84,7 +82,7 @@ The models were evaluated using:
 * ROC Curve
 * Area Under Curve (AUC)
 
----
+
 # 🏆 Final Results
 
 | Model | Accuracy | Precision | Recall | F1 Score | Features | Training Time (s) |
@@ -95,7 +93,7 @@ The models were evaluated using:
 
 **Best Model:** **GA-Optimized XGBoost**
 
----
+
 # 📈 Results Visualization
 
 ## Accuracy Comparison
@@ -104,7 +102,7 @@ The models were evaluated using:
   <img src="images/accuracy.png" width="550">
 </p>
 
----
+
 
 ## Precision Comparison
 
@@ -112,7 +110,7 @@ The models were evaluated using:
   <img src="images/precision.png" width="550">
 </p>
 
----
+
 
 ## Recall Comparison
 
@@ -120,15 +118,12 @@ The models were evaluated using:
   <img src="images/recall.png" width="550">
 </p>
 
----
-
 ## F1 Score Comparison
 
 <p align="center">
   <img src="images/f1_score.png" width="550">
 </p>
 
----
 
 ## Training Time Comparison
 
@@ -136,7 +131,6 @@ The models were evaluated using:
   <img src="images/training_time.png" width="550">
 </p>
 
----
 
 ## Feature Count Comparison
 
@@ -144,7 +138,7 @@ The models were evaluated using:
   <img src="images/feature_count.png" width="550">
 </p>
 
----
+
 
 ## ROC Curve Comparison
 
@@ -152,7 +146,7 @@ The models were evaluated using:
   <img src="images/roc_curve.png" width="550">
 </p>
 
----
+
 
 ## Confusion Matrix - Logistic Regression
 
@@ -160,7 +154,7 @@ The models were evaluated using:
   <img src="images/confusion_matrix_lr.png" width="500">
 </p>
 
----
+
 
 ## Confusion Matrix - Random Forest
 
@@ -168,14 +162,14 @@ The models were evaluated using:
   <img src="images/confusion_matrix_rf.png" width="500">
 </p>
 
----
+
 
 ## Confusion Matrix - XGBoost
 
 <p align="center">
   <img src="images/confusion_matrix_xgb.png" width="500">
 </p>
----
+
 
 # 📈 Project Workflow
 
@@ -207,7 +201,7 @@ Performance Evaluation
 Comparison of Models
 ```
 
----
+
 
 # 📁 Repository Structure
 
@@ -232,7 +226,6 @@ GA-Based-Feature-Selection-for-Income-Prediction/
     └── roc_curve.png
 ```
 
----
 
 # 🚀 How to Run
 
@@ -254,7 +247,7 @@ pip install -r requirements.txt
 jupyter notebook Income_Prediction.ipynb
 ```
 
----
+
 
 # 🔮 Future Scope
 
@@ -263,13 +256,13 @@ jupyter notebook Income_Prediction.ipynb
 * Deploy the final model using Flask or Streamlit.
 * Evaluate the framework on larger and more diverse real-world datasets.
 
----
+
 
 # 👨‍💻 Author
 
 **Rejuthasree M**
 
----
+
 
 # ⭐ Project Highlights
 
